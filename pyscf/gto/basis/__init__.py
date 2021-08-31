@@ -207,6 +207,7 @@ ALIAS = {
     'ccpwcv5zdk' : 'cc-pwCV5Z-DK.dat',
     'ccpwcvtzdk3': 'cc-pwCVTZ-DK3.dat',
     'ccpwcvqzdk3': 'cc-pwCVQZ-DK3.dat',
+    'augccpcvtz': 'aug-cc-pcvtz.dat',
     'augccpwcvdz': 'aug-cc-pwcvtz.dat',
     'augccpwcvtz': 'aug-cc-pwcvtz.dat',
     'augccpwcvqz': 'aug-cc-pwcvqz.dat',
